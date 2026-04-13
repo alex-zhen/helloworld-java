@@ -14,7 +14,4 @@
  * limitations under the License.
  */
 
-@NullMarked
 package smoketest.simple.service;
-
-import org.jspecify.annotations.NullMarked;
